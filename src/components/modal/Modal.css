@@ -1,0 +1,14 @@
+.Modal {
+    position: fixed;
+    z-index: 500;
+    background-color: none;
+    padding: 16px;
+    left: 30%;
+    transition: all 0.3s ease-out;
+}
+
+@media(max-width:375px){
+    .Modal{
+        left:8%;
+    }
+}

@@ -1,6 +1,7 @@
 {
   "name": "freeguide",
   "version": "0.1.0",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.5.0",
@@ -8,6 +9,7 @@
     "cors": "^2.8.5",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-geolocated": "^3.0.1",
     "react-google-location": "^1.2.2",
     "react-scripts": "3.2.0"
   },
